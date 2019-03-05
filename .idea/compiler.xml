@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mq" />
+        <module name="spring-boot-rocketmq-starter" />
+        <module name="spring-boot-starter-rocketmq" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,0 +1,108 @@
+{
+  "groups": [{
+    "name": "rmq",
+    "type": "com.zzm.rocketmq.config.RocketMqProperties",
+    "sourceType": "com.zzm.rocketmq.config.RocketMqProperties"
+  }],
+  "properties": [
+    {
+      "name": "rmq.default-consumer",
+      "type": "java.lang.String",
+      "description": "普通消费者",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "rmq.default-consumer",
+      "type": "java.lang.String",
+      "description": "普通消费者",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "rmq.default-producer",
+      "type": "java.lang.String",
+      "description": "普通生成者",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "rmq.default-producer",
+      "type": "java.lang.String",
+      "description": "普通生成者",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "rmq.default-topic",
+      "type": "java.util.Set<java.lang.String>",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties"
+    },
+    {
+      "name": "rmq.default-topic",
+      "type": "java.util.Set<java.lang.String>",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties"
+    },
+    {
+      "name": "rmq.instance-name",
+      "type": "java.lang.String",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "rmq.instance-name",
+      "type": "java.lang.String",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "rmq.namesrv-addr",
+      "type": "java.lang.String",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "rmq.namesrv-addr",
+      "type": "java.lang.String",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "rmq.order-consumer",
+      "type": "java.lang.String",
+      "description": "顺序消费者",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "rmq.order-consumer",
+      "type": "java.lang.String",
+      "description": "顺序消费者",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "rmq.order-topic",
+      "type": "java.util.Set<java.lang.String>",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties"
+    },
+    {
+      "name": "rmq.order-topic",
+      "type": "java.util.Set<java.lang.String>",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties"
+    },
+    {
+      "name": "rmq.transaction-producer",
+      "type": "java.lang.String",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "rmq.transaction-producer",
+      "type": "java.lang.String",
+      "sourceType": "com.zzm.rocketmq.config.RocketMqProperties",
+      "defaultValue": ""
+    }
+  ],
+  "hints": []
+}
